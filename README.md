@@ -35,12 +35,18 @@ Ensure you have the following prerequisites installed:
 - Internet connectivity for API communication.
 
 ## Screenshots
+<div style="display:flex;">
+    <img src="https://github.com/raj-tyagi/Gemini-Companion/assets/110656539/b51d1051-6c77-4a52-8c3e-3fa91db098d9" alt="Screenshot 1" style="width: 25%; margin-right: 10px;">
+    <img src="https://github.com/raj-tyagi/Gemini-Companion/assets/110656539/95854c75-53e8-48ef-a33d-f9e713c095f5" alt="Screenshot 2" style="width: 25%; margin-right: 10px;">
+    <img src="https://github.com/raj-tyagi/Gemini-Companion/assets/110656539/aeed3025-4af7-461e-9a5e-50c446a0a154" alt="Screenshot 3" style="width: 25%; margin-right: 10px;">
+    <img src="https://github.com/raj-tyagi/Gemini-Companion/assets/110656539/4ec9243d-65cc-448d-9ba9-ccf49f3ebd93" alt="Screenshot 4" style="width: 25%; margin-right: 10px;">
+</div>
 
 
 
 ## Contributions
 
-Contributions to this project are welcomed! Whether it's fixing bugs, adding new features, or improving documentation, your contributions are valuable. Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions to this project are welcomed! Whether it's fixing bugs, adding new features, or improving documentation, your contributions are valuable.
 
 ## License
 
