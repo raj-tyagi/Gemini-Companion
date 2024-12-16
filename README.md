@@ -1,6 +1,6 @@
 # Gemini Companion
 
-Welcome to the Gemini Companion repository! This Android application serves as your companion powered by Gemini AI, offering seamless conversational experiences.
+Welcome to the Gemini Companion repository! This Android application serves as your companion powered by Gemini AI, offering seamless conversational experiences. 
 
 ## Features
 
