@@ -42,7 +42,7 @@ Ensure you have the following prerequisites installed:
     <img src="https://github.com/raj-tyagi/Gemini-Companion/assets/110656539/4ec9243d-65cc-448d-9ba9-ccf49f3ebd93" alt="Screenshot 4" style="width: 25%; margin-right: 10px;">
 </div>
 
-
+#### App-apk : [apk-download-link](https://drive.google.com/file/d/1-GzxV6hsFXRFK5dmYyJhOD6EKV3imQla/view?usp=sharing)
 
 ## Contributions
 
